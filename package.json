@@ -1,0 +1,23 @@
+{
+  "name": "xiaozhi-blog",
+  "version": "1.0.2",
+  "description": "xiaozhi static file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoztx/xiaozhi-static.git"
+  },
+  "keywords": [
+    "static",
+    "file"
+  ],
+  "author": "xiaozhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoztx/xiaozhi-static/issues"
+  },
+  "homepage": "https://github.com/xiaoztx/xiaozhi-static#readme"
+}
